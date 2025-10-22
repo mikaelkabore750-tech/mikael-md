@@ -1,4 +1,8 @@
-# MIKAEL Xd – Bot Base Script
+# MIKAEL Xd – Bot made by Jenifer xm & lord tech mk
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbBBWbU30LKRv34yfH3m">
+    <img src="https://img.shields.io/badge/WhatsApp_Channel-JeniferXM-25d366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
+  </a>
 
    <a><img src='https://files.catbox.moe/hb543e.jpg'/></a>
 <p align="center">
