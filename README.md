@@ -67,6 +67,14 @@ The **session ID link** below is provided as a reference and example to use with
 
 
 [git-clone](https://github.com/mikaelkabore750-tech/mikael-md)
+
+[Group-support](https://matrix.to/#/%23lalalai:matrix.org)
+
+[Channel](https://whatsapp.com/channel/0029VbBBWbU30LKRv34yfH3m)
+
+[Contact-onwer](https://wa.me/22606527293?text=𝐇𝐄𝐋𝐋𝐎😇)
+
+
 ---
 
 SESSION_ID REPO BASE
